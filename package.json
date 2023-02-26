@@ -2,7 +2,7 @@
   "name": "markdown-preview",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://junc1508.github.io/",
+  "homepage": "https://junc1508.github.io/Simple-MarkDown/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
